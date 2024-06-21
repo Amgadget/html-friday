@@ -1,0 +1,23 @@
+body{
+    text-align: right;
+}
+
+footer {
+    background-color: #050450;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+a {
+    color: #fff;
+}
+
+
+
+
+
+
+
